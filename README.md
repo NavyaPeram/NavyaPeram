@@ -9,4 +9,4 @@
 
 <!--//- 😄 Pronouns: ...
 //- ⚡ Fun fact: ...-->
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=NavyaPeram)
